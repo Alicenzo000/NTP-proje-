@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ali Görkem Göktaş NTP proje/1.0.0": {
+        "runtime": {
+          "Ali Görkem Göktaş NTP proje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ali Görkem Göktaş NTP proje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
